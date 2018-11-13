@@ -24,20 +24,20 @@ urlcolor: blue
 
 *Université de Mons*, Bachelier en Biologie \hfill 2020
 
-*Ecole secondaire*, orientation \hfill 2017
+*Athénée Royal Jules Bordet*, diplomée en orientation scientifique \hfill 2017
+
+*Académie*, diplomée en éducation musicale \hfill 2014
 
 
 # EMPLOIS
 
 *Job étudiant:*
 
- > Activité réalisée \hfill 2017--2018
+ > Gestion et organisation de la section presse d'un commerce \hfill  juillet-août 2017
 
 *Autre emploi:*
 
- > Rôle 2 \hfill 2016--2018
- 
- > Rôle 1 \hfill 2015
+ > Professeur particulier de mathématique \hfill 2017-2018
 
 
 # PUBLICATIONS
