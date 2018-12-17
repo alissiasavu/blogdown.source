@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Biology",
     "Discovery",
-    "the living world",
+    "the Living World",
   ]
 
 # List your qualifications (such as academic degrees).

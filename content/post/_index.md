@@ -6,7 +6,7 @@ highlight = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "Fond.jpg"
-caption = "Image credit: **Savu Alissia** "
+image = "headers/Lys.jpg"
+caption = "Image credit: **Rachel Blairy** "
 
 +++

@@ -10,14 +10,14 @@ Résumé en une ou deux phrases ici.
 """
 
 [header]
-image = "headers/Lys.jpg"
-caption = "Image credit: **Rachel Blairy** on Unsplash"
+image = "headers/Paysage.jpg"
+caption = "Image credit: **Mattia Bonavida** on Unsplash"
 preview = false
 
 +++
 
-Le contenu ici
+Ici, nous retrouvons mon premier blog. 
 
-## Un titre
+## Blog
 
 Du texte **avec une partie en gras**...
