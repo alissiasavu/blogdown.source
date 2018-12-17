@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Biology",
     "Discovery",
+    "the living world",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,12 +27,12 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
+  course = "Biology"
+  institution = "Mons's University"
   year = 2018
 
 +++
 
 # About Me
 
-I am student in Biologie at the University of Mons, Belgium. 
+I am student in Biologie at the University of Mons, Belgium. I am studying to obtain a bachelor's degree and a master's degree.

@@ -10,8 +10,8 @@ Résumé en une ou deux phrases ici.
 """
 
 [header]
-image = "headers/secondary-header.jpg"
-caption = "Image credit: **Derek Thompson** on Unsplash"
+image = "headers/Lys.jpg"
+caption = "Image credit: **Rachel Blairy** on Unsplash"
 preview = false
 
 +++
